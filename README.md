@@ -1,4 +1,4 @@
-# Myrsidea Review
+# Myrsidea Review + the Myrsidea Checklist v1.0
 This folder includes Supplementary Data for the review manuscript of the chewing louse genus _Myrsidea_ (Phthiraptera:Amblycera:Menoponidae).
 Version 1.00
 
