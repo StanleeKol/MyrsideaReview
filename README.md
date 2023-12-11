@@ -3,8 +3,8 @@
 -corrected errors<br>
 -included new data (present study)<br>
 -included 3 new Myrsidea sequences from hummingbirds<br>
- Zenodo citation: v.1.0.1  StanleeKol/MyrsideaReview: v1.01
- DOI: 10.5281/zenodo.10356167
+ **Zenodo citation:** v.1.0.1  StanleeKol/MyrsideaReview: v1.01<br>
+ Kolencik S. 2023. The world checklist of Myrsidea. DOI: 10.5281/zenodo.10356167<br>
 
 **Myrsidea Review + the Myrsidea Checklist v1.0**
 This folder includes Supplementary Data for the review manuscript of the chewing louse genus _Myrsidea_ (Phthiraptera:Amblycera:Menoponidae).
