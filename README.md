@@ -1,8 +1,8 @@
-# Supplementary Data for
+## Supplementary Data for
 Kolencik et al. 2024: The parasitic louse genus Myrsidea (Amblycera: Menoponidae): a comprehensive review and world checklist
-https://doi.org/10.1093/isd/ixae007
-Full acess link to the article:
-CLICK [HERE](https://academic.oup.com/isd/article/doi/10.1093/isd/ixae007/7667553?guestAccessKey=a26425bd-f670-44f3-836e-56cd589cfb9b)
+DOI https://doi.org/10.1093/isd/ixae007
+
+Full acess link to the article: CLICK [HERE](https://academic.oup.com/isd/article/doi/10.1093/isd/ixae007/7667553?guestAccessKey=a26425bd-f670-44f3-836e-56cd589cfb9b)
 
 # The Myrsidea Checklist v1.01
  **Zenodo citation:** v.1.0.1  StanleeKol/MyrsideaReview: v1.01<br>
